@@ -1,0 +1,16 @@
+2024-12-11T00:17:53.921-0500 [INFO]  Terraform version: 1.9.8
+2024-12-11T00:17:53.922-0500 [DEBUG] using github.com/hashicorp/go-tfe v1.58.0
+2024-12-11T00:17:53.922-0500 [DEBUG] using github.com/hashicorp/hcl/v2 v2.20.0
+2024-12-11T00:17:53.922-0500 [DEBUG] using github.com/hashicorp/terraform-svchost v0.1.1
+2024-12-11T00:17:53.922-0500 [DEBUG] using github.com/zclconf/go-cty v1.14.4
+2024-12-11T00:17:53.922-0500 [INFO]  Go runtime version: go1.22.7
+2024-12-11T00:17:53.922-0500 [INFO]  CLI args: []string{"terraform", "apply"}
+2024-12-11T00:17:53.927-0500 [DEBUG] Attempting to open CLI config file: C:\Users\pc\AppData\Roaming\terraform.rc
+2024-12-11T00:17:53.933-0500 [DEBUG] File doesn't exist, but doesn't need to. Ignoring.
+2024-12-11T00:17:53.934-0500 [DEBUG] ignoring non-existing provider search directory terraform.d/plugins
+2024-12-11T00:17:53.934-0500 [DEBUG] ignoring non-existing provider search directory C:\Users\pc\AppData\Roaming\terraform.d\plugins
+2024-12-11T00:17:53.935-0500 [DEBUG] ignoring non-existing provider search directory C:\Users\pc\AppData\Roaming\HashiCorp\Terraform\plugins
+2024-12-11T00:17:53.935-0500 [INFO]  CLI command args: []string{"apply"}
+2024-12-11T00:17:57.053-0500 [DEBUG] checking for provisioner in "."
+2024-12-11T00:17:57.054-0500 [DEBUG] checking for provisioner in "C:\\Terraform1.9.8"
+2024-12-11T00:17:57.056-0500 [INFO]  backend/local: starting Apply operation
